@@ -1,7 +1,9 @@
 
 
 index = database
+
 type = table
+
 document = row
 
 #### All the indexes that have been created
